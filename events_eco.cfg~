@@ -1,0 +1,7 @@
+u begin InjectRange eco-hosts/host_XXX.org 0 10000
+u 1000 InjectParasite eco-parasites/parasite_YYY.org AAA 0 5000
+
+u 0:100:end PrintHostTasksData
+u 1000:100:end PrintParasiteTasksData
+
+u 10000 Exit
