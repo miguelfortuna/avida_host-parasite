@@ -5,7 +5,7 @@
 ## <a href="https://github.com/devosoft/avida" target="_blank">Avida version 2.14.0</a>  
 
 Configuration files required
-- avida.cfg (the Avida default file was used and the configuration options for sampling genotype space, testing coexistence in a purely ecological scenario, and for both coevolutionary scenarios (i.e., when traits had adaptive and non-adaptive origins, and when they had only adaptive origins) were modified when Avida was executed in standard an analyze mode).
+- avida.cfg (the Avida default file was used and the configuration options for sampling genotype space, testing coexistence in a purely ecological scenario, and for both coevolutionary scenarios (i.e., when traits had adaptive and non-adaptive origins, and when they had only adaptive origins) were modified when Avida was executed in standard and analyze modes).
 - events.cfg (events file used for sampling genotype space).
 - events_purifying_selection.cfg (events file used for the purifying selection process).
 - events_eco.cfg (events file used for testing coexistence in a purely ecological scenario).
