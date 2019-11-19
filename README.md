@@ -80,3 +80,7 @@ Configuration files required
 ```
 ./avida -set ENVIRONMENT_FILE environment_coevo.cfg -set EVENT_FILE events_coevo.cfg -set WORLD_X 100 -set WORLD_Y 100 -set COPY_MUT_PROB 0 -set DIVIDE_INS_PROB 0 -set DIVIDE_DEL_PROB 0 -set OFFSPRING_SIZE_RANGE 1 -set MIN_COPIED_LINES 0 -set MIN_EXE_LINES 0 -set REQUIRE_EXACT_COPY 1 -set STERILIZE_UNSTABLE 1 -set HARDWARE_TYPE 2 -set BASE_MERIT_METHOD 2 -set DEATH_METHOD 1 -set AGE_LIMIT 3000 -set MAX_CPU_THREADS 2 -set PARASITE_VIRULENCE 0.9 -set PARASITE_NO_COPY_MUT 1 -set INJECT_METHOD 1 -set INJECT_IS_TASK_SPECIFIC 1 -set REQUIRE_SINGLE_REACTION 1 -set DIVIDE_MUT_PROB 0.025 -set INJECT_MUT_PROB 0.01 -set MAX_UNIQUE_TASK_COUNT 1 > /dev/null 2>&1
 ```
+
+
+
+[![DOI](https://zenodo.org/badge/94107537.svg)](https://zenodo.org/badge/latestdoi/94107537)
